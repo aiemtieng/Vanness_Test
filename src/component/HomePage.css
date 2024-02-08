@@ -1,0 +1,4 @@
+.HomeLogo{
+    display: block; /* Ensure the image behaves as a block element */
+    margin: auto;
+}
